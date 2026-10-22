@@ -1,5 +1,5 @@
 # Product Requirements Document (PRD)
-## Aplikasi Kos-kosan Online
+## Aplikasi Kostara
 
 - **Status:** Draft untuk validasi
 - **Versi:** 0.1
@@ -8,7 +8,7 @@
 - **Metode pengembangan:** Scrum dengan sprint awal 1–2 minggu
 
 ## 1. Ringkasan produk
-Aplikasi Kos-kosan Online adalah platform yang membantu pencari kos menemukan hunian berdasarkan informasi harga, lokasi, fasilitas, foto, dan ketersediaan kamar. Pemilik kos dapat mengelola informasi kos dan kamar, sedangkan admin memverifikasi data kos agar informasi yang tampil lebih dapat dipercaya.
+Aplikasi Kostara adalah platform yang membantu pencari kos menemukan hunian berdasarkan informasi harga, lokasi, fasilitas, foto, dan ketersediaan kamar. Pemilik kos dapat mengelola informasi kos dan kamar, sedangkan admin memverifikasi data kos agar informasi yang tampil lebih dapat dipercaya.
 
 ## 2. Latar belakang masalah
 Materi awal mengidentifikasi masalah berikut:
@@ -173,4 +173,4 @@ MVP dapat dipertimbangkan siap pilot ketika:
 - Stakeholder menerima hasil Sprint Review/UAT dan menyetujui batasan MVP.
 
 ## 13. Referensi dan catatan
-Dokumen ini diturunkan dari materi presentasi “Aplikasi Kos-kosan Online — Metode Scrum”. Detail nonfungsional, aturan bisnis, dan metrik yang tidak ada di materi ditandai sebagai usulan untuk divalidasi.
+Dokumen ini diturunkan dari materi presentasi “Aplikasi Kostara — Metode Scrum”. Detail nonfungsional, aturan bisnis, dan metrik yang tidak ada di materi ditandai sebagai usulan untuk divalidasi.

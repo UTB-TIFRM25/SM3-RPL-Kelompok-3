@@ -1,4 +1,4 @@
-# Product Backlog — Aplikasi Kos-kosan Online
+# Product Backlog — Aplikasi Kostara
 
 **Status:** draft awal untuk refinement  
 **Prioritas:** P0 = wajib untuk MVP, P1 = penting setelah alur inti, P2 = lanjutan  
